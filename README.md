@@ -9,7 +9,7 @@ Coffee Script plugin for [component-builder2](https://github.com/component/build
 
 ```js
 var build = require('component-builder2');
-var coffee = require('builder-coffee');
+var coffee = require('builder-coffee-script');
 
 build.scripts(nodes)
   .use('scripts', build.plugins.js())
