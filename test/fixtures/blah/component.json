@@ -1,0 +1,9 @@
+{
+  "name": "blah",
+  "coffee": [
+    "*.coffee"
+  ],
+  "scripts": [
+    "*.js"
+  ]
+}
