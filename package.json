@@ -1,5 +1,5 @@
 {
-  "name": "builder-coffee",
+  "name": "builder-coffee-script",
   "description": "coffee-script plugin for component-builder2",
   "version": "0.1.0",
   "author": {
@@ -11,11 +11,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/component/builder-coffee.git"
+    "url": "https://github.com/component/builder-coffee-script.git"
   },
   "bugs": {
     "mail": "me@jongleberry.com",
-    "url": "https://github.com/component/builder-coffee/issues"
+    "url": "https://github.com/component/builder-coffee-script/issues"
   },
   "dependencies": {
     "sse4_crc32": "^1.1.3",

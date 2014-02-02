@@ -1,4 +1,4 @@
-# builder-coffee
+# builder-coffee-script
 
 Coffee Script plugin for [component-builder2](https://github.com/component/builder2.js).
 
