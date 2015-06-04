@@ -18,7 +18,7 @@
     "url": "https://github.com/componentjs/builder-coffee/issues"
   },
   "dependencies": {
-    "sse4_crc32": "^2.1.2",
+    "sse4_crc32": "^3.1.0",
     "coffee-script": "^1.9.0"
   },
   "devDependencies": {
